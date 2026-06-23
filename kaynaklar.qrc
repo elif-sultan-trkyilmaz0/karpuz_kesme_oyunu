@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/resimler">
+        <file>resimler/arkaplan.jpg</file>
+        <file>resimler/karpuz.png</file>
+        <file>resimler/kesilmiskarpuz.png</file>
+    </qresource>
+</RCC>
